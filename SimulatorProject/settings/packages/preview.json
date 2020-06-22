@@ -1,0 +1,11 @@
+{
+  "previewConfig": {
+    "userDevices": {
+      "full": {
+        "height": 960,
+        "name": "full",
+        "width": 1920
+      }
+    }
+  }
+}
